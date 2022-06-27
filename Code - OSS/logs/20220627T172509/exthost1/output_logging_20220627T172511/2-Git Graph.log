@@ -1,0 +1,13 @@
+[2022-06-27 17:25:12.217] Starting Git Graph ...
+[2022-06-27 17:25:12.239] Using git (version: 2.36.1)
+[2022-06-27 17:25:12.258] > git rev-parse --show-toplevel
+[2022-06-27 17:25:12.258] Showing "Git Graph" Status Bar Item
+[2022-06-27 17:25:12.259] Started Git Graph - Ready to use!
+[2022-06-27 17:25:12.355] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2022-06-27 17:25:12.361] Searching workspace for new repos ...
+[2022-06-27 17:25:12.361] Completed searching workspace for new repos
+[2022-06-27 17:28:51.726] Removed repo: /home/manu320/.config
+[2022-06-27 17:28:51.726] Hiding "Git Graph" Status Bar Item
+[2022-06-27 17:29:16.818] > git rev-parse --show-toplevel
+[2022-06-27 17:29:16.820] Added new repo: /home/manu320/.config
+[2022-06-27 17:29:16.822] Showing "Git Graph" Status Bar Item

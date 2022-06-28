@@ -6,10 +6,10 @@
             "backupPath": "/home/manu320/.config/Code - OSS/Backups/8d990112e5b015f28e2d6b4dfabdfa4f",
             "uiState": {
                 "mode": 1,
-                "x": 0,
-                "y": 30,
-                "width": 1920,
-                "height": 1050
+                "x": 3,
+                "y": 29,
+                "width": 950,
+                "height": 1044
             }
         },
         "openedWindows": []
@@ -139,8 +139,7 @@
                     },
                     {
                         "id": "saveAll",
-                        "label": "Save A&&ll",
-                        "enabled": false
+                        "label": "Save A&&ll"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -434,8 +433,7 @@
                                 },
                                 {
                                     "id": "workbench.action.togglePanel",
-                                    "label": "Show &&Panel",
-                                    "checked": true
+                                    "label": "Show &&Panel"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -665,8 +663,7 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location",
-                        "enabled": false
+                        "label": "&&Last Edit Location"
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -978,7 +975,8 @@
                     },
                     {
                         "id": "workbench.action.terminal.split",
-                        "label": "&&Split Terminal"
+                        "label": "&&Split Terminal",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"

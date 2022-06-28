@@ -1,0 +1,28 @@
+[2022-06-27 18:06:11.823] [exthost] [info] Extension host with pid 2942 started
+[2022-06-27 18:06:11.823] [exthost] [info] Skipping acquiring lock for /home/manu320/.config/Code - OSS/User/workspaceStorage/11c5ba59c150c6f9ec353995be8e954b.
+[2022-06-27 18:06:11.931] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-27 18:06:11.934] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-27 18:06:11.936] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-27 18:06:11.938] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-06-27 18:06:11.948] [exthost] [info] ExtensionService#_doActivateExtension CoenraadS.bracket-pair-colorizer-2, startup: true, activationEvent: '*'
+[2022-06-27 18:06:11.959] [exthost] [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: true, activationEvent: '*'
+[2022-06-27 18:06:11.999] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-06-27 18:06:12.001] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-06-27 18:06:12.017] [exthost] [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+[2022-06-27 18:06:12.037] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2022-06-27 18:06:12.204] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-27 18:06:12.229] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-27 18:06:12.526] [exthost] [info] Eager extensions activated
+[2022-06-27 18:06:12.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-27 18:06:12.579] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-27 18:06:12.580] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-27 18:06:12.598] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-27 18:06:12.623] [exthost] [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-27 18:06:12.633] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-27 18:06:12.716] [exthost] [info] ExtensionService#_doActivateExtension zhuangtongfa.material-theme, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-27 18:14:17.364] [exthost] [info] ExtensionService#_doActivateExtension vscode.image-preview, startup: false, activationEvent: 'onCustomEditor:imagePreview.previewEditor'
+[2022-06-27 18:14:33.314] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 268
+[2022-06-27 18:14:38.384] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 313
+[2022-06-27 18:14:44.276] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 358
+[2022-06-27 18:14:49.327] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 359
+[2022-06-27 18:14:54.398] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 358

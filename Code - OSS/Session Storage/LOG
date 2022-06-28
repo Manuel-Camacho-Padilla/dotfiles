@@ -1,2 +1,3 @@
-2022/06/27-14:54:31.739 7a1 Creating DB /home/manu320/.config/Code - OSS/Session Storage since it was missing.
-2022/06/27-14:54:31.742 7a1 Reusing MANIFEST /home/manu320/.config/Code - OSS/Session Storage/MANIFEST-000001
+2022/06/27-18:06:06.209 968 Reusing MANIFEST /home/manu320/.config/Code - OSS/Session Storage/MANIFEST-000001
+2022/06/27-18:06:06.209 968 Recovering log #3
+2022/06/27-18:06:06.209 968 Reusing old log /home/manu320/.config/Code - OSS/Session Storage/000003.log 
